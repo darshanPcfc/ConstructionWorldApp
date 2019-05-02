@@ -1,7 +1,8 @@
-package com.world.construction.constructionworld
+package com.world.construction.constructionworld.activities
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.world.construction.constructionworld.R
 
 class MainActivity : AppCompatActivity() {
 
